@@ -1,0 +1,570 @@
+
+[2026-05-16T09:56:02.086Z] GET /api/notifications
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T09:56:02.138Z] GET /api/chat/support_6a083b66a6ce9203646a9b2c
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T09:56:02.250Z] GET /api/notifications
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T09:56:02.290Z] GET /api/auth/profile
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T09:56:02.316Z] GET /api/chat/support_6a083b66a6ce9203646a9b2c
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T09:56:02.451Z] GET /api/auth/profile
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:04:03.748Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:04:03.764Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:04.503Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:04.521Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:19.301Z] PUT /api/orders/6a084154a6ce9203646a9e4d/status
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:21.146Z] PUT /api/orders/6a084154a6ce9203646a9e4d/status
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:29.635Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:29.654Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:32.382Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:32.401Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:32.604Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:05:32.619Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:06:33.435Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:06:33.445Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:07:32.709Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:07:32.716Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:08:33.478Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:08:33.481Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:09:34.570Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:09:34.574Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:10:32.699Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:10:32.703Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:11:32.651Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:11:32.661Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:12:33.039Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:12:33.045Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:14:16.177Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:14:16.180Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:15:16.081Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:15:16.092Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:16:15.857Z] GET /api/orders/delivery/active
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------
+
+[2026-05-16T10:16:15.860Z] GET /api/orders/delivery/available?lat=23.0276&lng=72.5871
+Error: jwt expired
+Stack: TokenExpiredError: jwt expired
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\middleware\auth.js:24:23
+    at C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\utils\catchAsync.js:3:5
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\mohma\OneDrive\Desktop\Food Delivery\backend\node_modules\router\lib\layer.js:152:17)
+-----------------------------------

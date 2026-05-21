@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195100280488",
+    "project_id": "fastfood-nation",
+    "storage_bucket": "fastfood-nation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195100280488:android:4c4454e9d2ed345ab1a49d",
+        "android_client_info": {
+          "package_name": "com.fastfoodnation.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYv7zDM0hYlDw45HEo2stay_lmuUzoIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

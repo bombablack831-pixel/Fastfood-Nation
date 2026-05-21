@@ -1,0 +1,8 @@
+{
+  "appId": "com.fastfoodnation.app",
+  "appName": "Fastfood Nation",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  }
+}
